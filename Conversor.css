@@ -1,0 +1,36 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 500px;
+  background-image: url('https://c.wallhere.com/photos/39/4f/money_dollar_dignity_amount_denominations_one_background-709304.jpg!d');
+  background-color: #000000;
+  background-size: 200vh;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color:#ffffff;
+  margin: 0 0 5px;
+}
+
+.page-subtitle {
+  color:#ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
